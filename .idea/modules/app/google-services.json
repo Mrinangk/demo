@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977471677677",
+    "firebase_url": "https://onlineschool-a8e1d.firebaseio.com",
+    "project_id": "onlineschool-a8e1d",
+    "storage_bucket": "onlineschool-a8e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977471677677:android:0dc61632806cc14a67d8e4",
+        "android_client_info": {
+          "package_name": "neb.com.asuspc.demoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977471677677-10scbo4jhu5o00oun00l2fu7srdau0us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "neb.com.asuspc.demoapplication",
+            "certificate_hash": "f9e1524dd6e6619701f5291fa690290b75976ab5"
+          }
+        },
+        {
+          "client_id": "977471677677-tdnpst5pqgvfchga2lkg7v4jro7n3km7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZO3iZg9NCJWGKqZNd11giWnFNcaD8Jho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977471677677-tdnpst5pqgvfchga2lkg7v4jro7n3km7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
